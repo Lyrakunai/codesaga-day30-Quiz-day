@@ -5,11 +5,11 @@
 - nested loop
 - break & continue
 
-##🚀 Practice:
+## 🚀 Practice:
 - MCQs
 - Output tracing
 
-##🔥 Status 
+## 🔥 Status 
 - complete day 30
 - see practice:
 - day30_quiz_day.py
